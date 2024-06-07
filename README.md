@@ -33,11 +33,11 @@ myimages.ai - MidJopurney V5 foi utilizado para fazer a parte de criação de im
 
 ## 🚀 Resultados
 Alguns dos resultados gerados:
-<span>
-![templario cyborg dourado2](https://github.com/Dennyson-D/Codigos/assets/42616595/f3a71f5e-5a48-4c24-85ce-d8f0780eb73e)
+<div align="center">
+<img sourcer = "![templario cyborg dourado2](https://github.com/Dennyson-D/Codigos/assets/42616595/f3a71f5e-5a48-4c24-85ce-d8f0780eb73e") />
 ![templario cyborg dourado4](https://github.com/Dennyson-D/Codigos/assets/42616595/a8e50a27-6bd7-42cc-8f13-d983ca954c02)
 ![templario cyborg dourado7](https://github.com/Dennyson-D/Codigos/assets/42616595/98b62201-dbfd-4d4e-9e56-b76c02d0d6be)
 ![samuraicyber2](https://github.com/Dennyson-D/Codigos/assets/42616595/a231c97a-1ea1-449d-b9a8-6d800ae1e881)
-
+<\div>
 ## 💭 Reflexão (Opcional)
 Esse projeto me mostrou algo muito legal, que não conhecia, que é criar algo que só existe na nossa idéia e fazer com que ela se concretize de uma forma muito mais rápida que o habitual.
