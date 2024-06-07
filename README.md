@@ -20,32 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Jogo medieval robótico
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A idéia seria criar um jogo diferente, sendo uma mistura de personagens clássicos, como cavaleiros templários e samurais, misturando com tecnologia. Então foi utilizada IAs Generativas para criar esses personagens.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa - myimages.ai com o modelo MidJopurney V5
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+myimages.ai - MidJopurney V5 foi utilizado para fazer a parte de criação de imagens solicitadas em alta resolução, no caso cavaleiro templário cyborg e cyber samurai.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Alguns dos resultados gerados:
+<span>
+![templario cyborg dourado2](https://github.com/Dennyson-D/Codigos/assets/42616595/f3a71f5e-5a48-4c24-85ce-d8f0780eb73e)
+![templario cyborg dourado4](https://github.com/Dennyson-D/Codigos/assets/42616595/a8e50a27-6bd7-42cc-8f13-d983ca954c02)
+![templario cyborg dourado7](https://github.com/Dennyson-D/Codigos/assets/42616595/98b62201-dbfd-4d4e-9e56-b76c02d0d6be)
+![samuraicyber2](https://github.com/Dennyson-D/Codigos/assets/42616595/a231c97a-1ea1-449d-b9a8-6d800ae1e881)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Esse projeto me mostrou algo muito legal, que não conhecia, que é criar algo que só existe na nossa idéia e fazer com que ela se concretize de uma forma muito mais rápida que o habitual.
