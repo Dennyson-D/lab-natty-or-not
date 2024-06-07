@@ -32,12 +32,7 @@ IA Generativa - myimages.ai com o modelo MidJopurney V5
 myimages.ai - MidJopurney V5 foi utilizado para fazer a parte de criação de imagens solicitadas em alta resolução, no caso cavaleiro templário cyborg e cyber samurai.
 
 ## 🚀 Resultados
-Alguns dos resultados gerados:
-<div align="center">
-<img src = "https://github.com/Dennyson-D/Codigos/issues/1#issue-2340832713.png" />
-![templario cyborg dourado4](https://github.com/Dennyson-D/Codigos/assets/42616595/a8e50a27-6bd7-42cc-8f13-d983ca954c02)
-![templario cyborg dourado7](https://github.com/Dennyson-D/Codigos/assets/42616595/98b62201-dbfd-4d4e-9e56-b76c02d0d6be)
-![samuraicyber2](https://github.com/Dennyson-D/Codigos/assets/42616595/a231c97a-1ea1-449d-b9a8-6d800ae1e881)
-<\div>
+Link: https://github.com/Dennyson-D/Imagens-AI
+
 ## 💭 Reflexão (Opcional)
 Esse projeto me mostrou algo muito legal, que não conhecia, que é criar algo que só existe na nossa idéia e fazer com que ela se concretize de uma forma muito mais rápida que o habitual.
